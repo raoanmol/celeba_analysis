@@ -1,0 +1,470 @@
+TCAV scores summary:
+
+Attribute: 5_o_Clock_Shadow (Pair ID: 0-1)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Receding_Hairline (Pair ID: 81-83)
+   Layer: layer1 | TCAV Score: 0.720
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Receding_Hairline (Pair ID: 81-82)
+   Layer: layer1 | TCAV Score: 0.880
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Pointy_Nose (Pair ID: 78-80)
+   Layer: layer1 | TCAV Score: 0.040
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Pointy_Nose (Pair ID: 78-79)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Pale_Skin (Pair ID: 75-77)
+   Layer: layer1 | TCAV Score: 0.080
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.760
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Pale_Skin (Pair ID: 75-76)
+   Layer: layer1 | TCAV Score: 0.160
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Oval_Face (Pair ID: 72-74)
+   Layer: layer1 | TCAV Score: 0.080
+   Layer: layer2 | TCAV Score: 0.040
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Oval_Face (Pair ID: 72-73)
+   Layer: layer1 | TCAV Score: 0.480
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: No_Beard (Pair ID: 69-71)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: No_Beard (Pair ID: 69-70)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Narrow_Eyes (Pair ID: 66-68)
+   Layer: layer1 | TCAV Score: 0.240
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.960
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Narrow_Eyes (Pair ID: 66-67)
+   Layer: layer1 | TCAV Score: 0.960
+   Layer: layer2 | TCAV Score: 0.200
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Mustache (Pair ID: 63-65)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Mustache (Pair ID: 63-64)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Mouth_Slightly_Open (Pair ID: 60-62)
+   Layer: layer1 | TCAV Score: 0.240
+   Layer: layer2 | TCAV Score: 0.960
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Rosy_Cheeks (Pair ID: 84-85)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Rosy_Cheeks (Pair ID: 84-86)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Sideburns (Pair ID: 87-88)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Sideburns (Pair ID: 87-89)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Wearing_Necktie (Pair ID: 111-113)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Wearing_Necktie (Pair ID: 111-112)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Wearing_Necklace (Pair ID: 108-110)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Wearing_Necklace (Pair ID: 108-109)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Wearing_Lipstick (Pair ID: 105-107)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Wearing_Lipstick (Pair ID: 105-106)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Wearing_Hat (Pair ID: 102-104)
+   Layer: layer1 | TCAV Score: 0.600
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Mouth_Slightly_Open (Pair ID: 60-61)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.880
+   Layer: layer3 | TCAV Score: 0.920
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Wearing_Hat (Pair ID: 102-103)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Wearing_Earrings (Pair ID: 99-100)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Wavy_Hair (Pair ID: 96-98)
+   Layer: layer1 | TCAV Score: 0.040
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Wavy_Hair (Pair ID: 96-97)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Straight_Hair (Pair ID: 93-95)
+   Layer: layer1 | TCAV Score: 0.440
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Straight_Hair (Pair ID: 93-94)
+   Layer: layer1 | TCAV Score: 0.880
+   Layer: layer2 | TCAV Score: 0.040
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Smiling (Pair ID: 90-92)
+   Layer: layer1 | TCAV Score: 0.040
+   Layer: layer2 | TCAV Score: 0.720
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Smiling (Pair ID: 90-91)
+   Layer: layer1 | TCAV Score: 0.120
+   Layer: layer2 | TCAV Score: 0.760
+   Layer: layer3 | TCAV Score: 0.320
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Wearing_Earrings (Pair ID: 99-101)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: High_Cheekbones (Pair ID: 57-59)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: High_Cheekbones (Pair ID: 57-58)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Heavy_Makeup (Pair ID: 54-56)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Black_Hair (Pair ID: 24-25)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Big_Nose (Pair ID: 21-23)
+   Layer: layer1 | TCAV Score: 0.440
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Big_Nose (Pair ID: 21-22)
+   Layer: layer1 | TCAV Score: 0.840
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Big_Lips (Pair ID: 18-20)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Big_Lips (Pair ID: 18-19)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Bangs (Pair ID: 15-17)
+   Layer: layer1 | TCAV Score: 0.040
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Bangs (Pair ID: 15-16)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Black_Hair (Pair ID: 24-26)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Bald (Pair ID: 12-14)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Bags_Under_Eyes (Pair ID: 9-11)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Bags_Under_Eyes (Pair ID: 9-10)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Attractive (Pair ID: 6-8)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Attractive (Pair ID: 6-7)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Arched_Eyebrows (Pair ID: 3-5)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Arched_Eyebrows (Pair ID: 3-4)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: 5_o_Clock_Shadow (Pair ID: 0-2)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Bald (Pair ID: 12-13)
+   Layer: layer1 | TCAV Score: 0.040
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Young (Pair ID: 114-115)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Blond_Hair (Pair ID: 27-28)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 0.040
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Blurry (Pair ID: 30-31)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.920
+   Layer: layer3 | TCAV Score: 0.920
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Heavy_Makeup (Pair ID: 54-55)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.040
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Gray_Hair (Pair ID: 51-53)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Gray_Hair (Pair ID: 51-52)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Goatee (Pair ID: 48-50)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Goatee (Pair ID: 48-49)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Eyeglasses (Pair ID: 45-47)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Eyeglasses (Pair ID: 45-46)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Blond_Hair (Pair ID: 27-29)
+   Layer: layer1 | TCAV Score: 0.120
+   Layer: layer2 | TCAV Score: 0.240
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Double_Chin (Pair ID: 42-44)
+   Layer: layer1 | TCAV Score: 0.960
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Chubby (Pair ID: 39-41)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Chubby (Pair ID: 39-40)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Bushy_Eyebrows (Pair ID: 36-38)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 0.000
+
+Attribute: Bushy_Eyebrows (Pair ID: 36-37)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Brown_Hair (Pair ID: 33-35)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Brown_Hair (Pair ID: 33-34)
+   Layer: layer1 | TCAV Score: 1.000
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Blurry (Pair ID: 30-32)
+   Layer: layer1 | TCAV Score: 0.800
+   Layer: layer2 | TCAV Score: 0.920
+   Layer: layer3 | TCAV Score: 0.080
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Double_Chin (Pair ID: 42-43)
+   Layer: layer1 | TCAV Score: 0.760
+   Layer: layer2 | TCAV Score: 1.000
+   Layer: layer3 | TCAV Score: 1.000
+   Layer: layer4 | TCAV Score: 1.000
+
+Attribute: Young (Pair ID: 114-116)
+   Layer: layer1 | TCAV Score: 0.000
+   Layer: layer2 | TCAV Score: 0.000
+   Layer: layer3 | TCAV Score: 0.000
+   Layer: layer4 | TCAV Score: 1.000
+
