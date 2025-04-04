@@ -1,9 +1,0 @@
-<script>start("/Users/anmolrao/Research/celeba_analysis/github_version/utils/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("clip_skin_annotator.py","clip_skin_annotator.py",0,2070,"2.0 kB",1743790969,"4/4/25, 11:22:49 AM");</script>
-<script>addRow("data_annotate.py","data_annotate.py",0,998,"998 B",1743791012,"4/4/25, 11:23:32 AM");</script>
-<script>addRow("data_split.py","data_split.py",0,966,"966 B",1743627128,"4/2/25, 1:52:08 PM");</script>
-<script>addRow("dataset.py","dataset.py",0,770,"770 B",1743627128,"4/2/25, 1:52:08 PM");</script>
-<script>addRow("model.py","model.py",0,242,"242 B",1743627128,"4/2/25, 1:52:08 PM");</script>
-<script>addRow("siglip_skin_annotater.py","siglip_skin_annotater.py",0,2164,"2.1 kB",1743627401,"4/2/25, 1:56:41 PM");</script>
-<script>addRow("tcav.py","tcav.py",0,12041,"11.8 kB",1743791121,"4/4/25, 11:25:21 AM");</script>

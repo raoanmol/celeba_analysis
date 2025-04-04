@@ -1,0 +1,52 @@
+Using GPU
+Epoch [1/10], Loss: 0.3249, Val Acc: 86.30%, Precision: 0.86, Recall: 0.97
+Epoch [2/10], Loss: 0.2787, Val Acc: 87.10%, Precision: 0.87, Recall: 0.97
+Epoch [3/10], Loss: 0.2560, Val Acc: 86.72%, Precision: 0.90, Recall: 0.93
+Epoch [4/10], Loss: 0.2325, Val Acc: 87.32%, Precision: 0.89, Recall: 0.95
+Epoch [5/10], Loss: 0.2002, Val Acc: 87.05%, Precision: 0.89, Recall: 0.95
+Epoch [6/10], Loss: 0.1590, Val Acc: 86.57%, Precision: 0.90, Recall: 0.92
+Epoch [7/10], Loss: 0.1160, Val Acc: 86.57%, Precision: 0.90, Recall: 0.92
+Epoch [8/10], Loss: 0.0843, Val Acc: 85.78%, Precision: 0.89, Recall: 0.92
+Epoch [9/10], Loss: 0.0652, Val Acc: 86.83%, Precision: 0.89, Recall: 0.94
+Epoch [10/10], Loss: 0.0539, Val Acc: 86.04%, Precision: 0.89, Recall: 0.93
+
+Highest accuracy saved at epoch 4 with Val Acc: 87.32%
+Highest precision saved at epoch 6 with Val Precision: 0.90
+Highest recall saved at epoch 1 with Val Recall: 0.97
+
+
+--- Test Results for Best Accuracy Model ---
+Test Accuracy: 88.04%
+              precision    recall  f1-score   support
+
+         Old       0.82      0.65      0.73      4848
+       Young       0.89      0.95      0.92     15114
+
+    accuracy                           0.88     19962
+   macro avg       0.86      0.80      0.82     19962
+weighted avg       0.88      0.88      0.88     19962
+
+
+--- Test Results for Best Precision Model ---
+Test Accuracy: 87.19%
+              precision    recall  f1-score   support
+
+         Old       0.75      0.71      0.73      4848
+       Young       0.91      0.92      0.92     15114
+
+    accuracy                           0.87     19962
+   macro avg       0.83      0.82      0.82     19962
+weighted avg       0.87      0.87      0.87     19962
+
+
+--- Test Results for Best Recall Model ---
+Test Accuracy: 86.98%
+              precision    recall  f1-score   support
+
+         Old       0.87      0.55      0.67      4848
+       Young       0.87      0.97      0.92     15114
+
+    accuracy                           0.87     19962
+   macro avg       0.87      0.76      0.80     19962
+weighted avg       0.87      0.87      0.86     19962
+
